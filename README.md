@@ -22,6 +22,7 @@ Tools Used - Microsoft PowerBI for Desktop Application
 * Created custom and quick measures for key metrics and insights.   
 * Utilized DAX queries for performing BI calculations.
 * Designed KPIs to highlight important metrics at a glance.
+* Created 3 slides highlighting the customer background, customer expenditure and credit card history. 
 * Made use of different visualizations for various types of data, such as pie charts, bar/column charts, donut charts, and TreeMaps.
 
   **Model View**
@@ -29,6 +30,17 @@ Tools Used - Microsoft PowerBI for Desktop Application
   ![2024-07-07 (5)](https://github.com/vishalvinod175/Bharat-National-Bank/assets/164670302/f7675ad0-d064-46ab-91b2-d44875848dd6)
 
   * The 'customer_id' columns of both tables are linked to eachother.
+ 
+  ** Final Dashboard **
+
+  ![2024-07-07](https://github.com/vishalvinod175/Bharat-National-Bank/assets/164670302/0f83e889-ff00-46f3-9f9e-fc76dc043c37)
+
+  ![2024-07-07 (2)](https://github.com/vishalvinod175/Bharat-National-Bank/assets/164670302/5396af6a-5908-497a-a6e9-a1295f20a281)
+
+  ![2024-07-07 (4)](https://github.com/vishalvinod175/Bharat-National-Bank/assets/164670302/0b31cc42-ff6c-4a00-8f8b-a1ebe1c6598e)
+
+
+
 
  
 
