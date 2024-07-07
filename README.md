@@ -60,7 +60,7 @@ Vishal’s task is to focus on implementing suggested metrics, designing an easy
 * Mumbai saw the most amount of credit card transactions at Rs 70M.
 * The top 5 transactions through Credit Cards were for Bills, Electronics, Health & Wellness, Groceries and Travel. This accounted for 40.75% of the credit card transactions.
 
-# Recomendations and Insights   
+# Recommendations and Insights   
 
 * 
 
