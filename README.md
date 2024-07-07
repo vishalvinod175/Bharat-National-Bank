@@ -31,13 +31,20 @@ Tools Used - Microsoft PowerBI for Desktop Application
 
   * The 'customer_id' columns of both tables are linked to eachother.
  
-  ** Final Dashboard **
+  **Final Dashboard**
 
   ![2024-07-07](https://github.com/vishalvinod175/Bharat-National-Bank/assets/164670302/0f83e889-ff00-46f3-9f9e-fc76dc043c37)
 
   ![2024-07-07 (2)](https://github.com/vishalvinod175/Bharat-National-Bank/assets/164670302/5396af6a-5908-497a-a6e9-a1295f20a281)
 
   ![2024-07-07 (4)](https://github.com/vishalvinod175/Bharat-National-Bank/assets/164670302/0b31cc42-ff6c-4a00-8f8b-a1ebe1c6598e)
+
+  **Key Business Insights**
+1. Customer Background -
+* Data of 4000 customers were analyzed, 1403 of whom were Females and 2597 were Males.
+* 37.45% of the customers were in the age range of 25-34 and and 31.8% were in the age range of 35-45 highlighting the increased use of Banking Services amongst Adults.
+* 25% of the customers reside in Mumbai.
+* 32.35% of the customers are salaried employees from the IT Sector.  
 
 
 
