@@ -31,7 +31,7 @@ Tools Used - Microsoft PowerBI for Desktop Application
 
   * The 'customer_id' columns of both tables are linked to eachother.
  
-  **Final Dashboard**
+  # Final Dashboard
 
   ![2024-07-07](https://github.com/vishalvinod175/Bharat-National-Bank/assets/164670302/0f83e889-ff00-46f3-9f9e-fc76dc043c37)
 
