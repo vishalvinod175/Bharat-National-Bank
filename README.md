@@ -17,8 +17,12 @@ Tools Used - Microsoft PowerBI for Desktop Application
 **Building the PowerBI Dashboard**   
 
 * Load all the Data. Open the PowerQuery Editor to change the name of the tables and columns, according to your ease. Make sure the data is accurate with the correct Datatypes.  
-Rename the tables for your ease of work. Check that the headers have been promoted.   
-Established relationships between tables.   
-Created custom and quick measures for key metrics and requirements.   
-Utilized DAX functions for performing calculations.
+* Rename the tables for your ease of work. Check that the headers have been promoted.   
+* Establish relationships between tables.   
+* Created custom and quick measures for key metrics and insights.   
+* Utilized DAX queries for performing BI calculations.
+* Designed KPIs to highlight important metrics at a glance.
+* Made use of different visualizations for various types of data, such as pie charts, bar/column charts, donut charts, and TreeMaps.
+ 
+
 
