@@ -4,7 +4,7 @@
  want to introduce a new line of credit cards, aiming to broaden its product
  offerings and reach in the financial market.   
 
- *Problem Statement* -    
+ **Problem Statement** -    
  With plans of introducing a new line of credit cards, the CEO of the Bharat National Bank has asked Vishal Vinod to analyse the provided sample data and
  report key findings to the strategy team of Bharat National Bank. This analysis is
  expected to guide them in tailoring the credit cards to customer needs and
@@ -40,7 +40,7 @@ Tools Used - Microsoft PowerBI for Desktop Application
   ![2024-07-07 (6)](https://github.com/vishalvinod175/Bharat-National-Bank/assets/164670302/5f243e53-82e0-40f5-8de3-c0c8877a603a)
 
 
-**Key Business Insights**
+# Key Business Insights
 1. Customer Background -
 * Data of 4000 customers were analyzed, 1403 of whom were Females and 2597 were Males.
 * 37.45% of the customers were in the age range of 25-34 and and 31.8% were in the age range of 35-45 highlighting the increased use of Banking Services amongst Adults.
@@ -60,7 +60,7 @@ Tools Used - Microsoft PowerBI for Desktop Application
 * Mumbai saw the most amount of credit card transactions at Rs 70M.
 * The top 5 transactions through Credit Cards were for Bills, Electronics, Health & Wellness, Groceries and Travel. This accounted for 40.75% of the credit card transactions.
 
-**Recomendations and Insights**   
+# Recomendations and Insights   
 
 * 
 
