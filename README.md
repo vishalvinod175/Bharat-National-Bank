@@ -14,7 +14,7 @@ Vishal’s task is to focus on implementing suggested metrics, designing an easy
 
 Tools Used - Microsoft PowerBI for Desktop Application   
 
-**Building the PowerBI Dashboard**   
+# Building the PowerBI Dashboard  
 
 * Load all the Data. Open the PowerQuery Editor to change the name of the tables and columns, according to your ease. Make sure the data is accurate with the correct Datatypes.  
 * Rename the tables for your ease of work. Check that the headers have been promoted.   
@@ -25,7 +25,7 @@ Tools Used - Microsoft PowerBI for Desktop Application
 * Created 3 slides highlighting the customer background, customer expenditure and credit card history. 
 * Made use of different visualizations for various types of data, such as pie charts, bar/column charts, donut charts, and TreeMaps.
 
-**Model View**
+# Model View   
 
   ![2024-07-07 (5)](https://github.com/vishalvinod175/Bharat-National-Bank/assets/164670302/f7675ad0-d064-46ab-91b2-d44875848dd6)
 
