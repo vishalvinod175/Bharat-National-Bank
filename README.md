@@ -5,7 +5,7 @@
  offerings and reach in the financial market.   
 
  **Problem Statement** -    
- With plans of introducing a new line of credit cards, the CEO of the Bharat National Bank has asked Vishal Vinod to analyse the provided sample data and
+ With plans of introducing a new line of credit cards, the CEO of Bharat National Bank has asked Vishal Vinod to analyse the provided sample data and
  report key findings to the strategy team of Bharat National Bank. This analysis is
  expected to guide them in tailoring the credit cards to customer needs and
  market trends.   
