@@ -54,9 +54,9 @@ Vishal’s task is to focus on implementing suggested metrics, designing an easy
 * 38% of the expenditure was done by customers in the age group of 25-34.
 
 3. Credit Card History -
-* Total Expenditure through Credit Card stood at Rs 216M.
+* Total Expenditure through Credit Cards stood at Rs 216M.
 * 66% of customers using credit cards were Males.
-* Salaried IT Employees used creidt card payments the most, highlighting their easy access to Credit Cards.
+* Salaried IT Employees used credit card payments the most, highlighting their easy access to Credit Cards.
 * Mumbai saw the most amount of credit card transactions at Rs 70M.
 * The top 5 transactions through Credit Cards were for Bills, Electronics, Health & Wellness, Groceries and Travel. This accounted for 40.75% of the credit card transactions.
 
