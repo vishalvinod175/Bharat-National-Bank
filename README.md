@@ -12,7 +12,7 @@
 
 Vishal’s task is to focus on implementing suggested metrics, designing an easy-to-understand dashboard, and creatively presenting key insights to Bharat National Bank’s top-level management and strategy team.   
 
-Tools Used - Microsoft PowerBI for Desktop Application   
+**Tools Used** - Microsoft PowerBI for Desktop Application   
 
 # Building the PowerBI Dashboard  
 
