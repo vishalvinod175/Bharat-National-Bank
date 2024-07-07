@@ -42,19 +42,19 @@ Vishal’s task is to focus on implementing suggested metrics, designing an easy
 
 
 # Key Business Insights
-1. Customer Background -
+1. ### Customer Background -
 * Data of 4000 customers were analyzed, 1403 of whom were Females and 2597 were Males.
 * 37.45% (1498) of the customers were in the age range of 25-34 and and 31.8% (1273) were in the age range of 35-45 highlighting the increased use of Banking Services amongst Adults. These 2 age groups should be targetted primarily.
 * 25% of the customers reside in Mumbai.
 * 32.35% of the customers are salaried employees from the IT Sector and also earning the highest income totalling Rs 80m.
 
-2. Customer Expenditure -
+2. ### Customer Expenditure -
 * Male customer expenditure (Rs 357M) was more than double the expenditure of female customers(Rs 174M).
 * The highest spending categories are bills (Rs 105M), groceries (Rs 86M), and electronics (Rs 80M).
 * Salaried IT employees have the highest expenditure (Rs 244M) which is nearly 45% of the total.
 * 38% of the expenditure was done by customers in the age group of 25-34.
 
-3. Credit Card History -
+3. ### Credit Card History -
 * Total Expenditure through Credit Cards stood at Rs 216M.
 * 66% of customers using credit cards were Males.
 * Salaried IT employees also lead in credit card expenditure (₹101M) highlighting their easy access to Credit Cards.
